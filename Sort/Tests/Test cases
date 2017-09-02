@@ -2,13 +2,13 @@ Test cases:
 
 1). Empty array []
 
-2). Array with single object [5]
+2). Array of single object [5]
 
-3). Array with of two objects [5, 8]
+3). Array of two objects [5, 8]
 
-4). Array with of two objects [8, 5]
+4). Array of two objects [8, 5]
 
-5). Array with of two objects [5, 5]
+5). Array of two objects [5, 5]
 
 6). [5, 5, 5]
 
